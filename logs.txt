@@ -1,0 +1,43 @@
+commit de0540b8546c118f3f1d7a88af867d2bb8763b76 (HEAD -> master, origin/master)
+Author: LukaPecijarev <lpecijarev@gmail.com>
+Date:   Sun Apr 9 17:19:34 2023 +0200
+
+    Final commit
+
+commit 80c7ef1f869ca2019ed0a65afa5799f29a3aedf1 (origin/bug3, bug3)
+Author: LukaPecijarev <lpecijarev@gmail.com>
+Date:   Sun Apr 9 16:33:47 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 0c0b896ecd5438b8e627ab5bd8a84831dcf092ab
+Merge: 05a9c64 bb0684f
+Author: LukaPecijarev <lpecijarev@gmail.com>
+Date:   Sun Apr 9 16:57:55 2023 +0200
+
+    Merge branch 'bug2'
+
+commit bb0684f1406cb7da5a555361836f24cfb565059a (origin/bug2, bug2)
+Author: LukaPecijarev <lpecijarev@gmail.com>
+Date:   Sun Apr 9 16:32:09 2023 +0200
+
+    fix wrong condition in filterOddNumbers
+
+commit 05a9c647553bf07756aab30f11419bacfbcdcdc9 (origin/bug1, bug1)
+Author: LukaPecijarev <lpecijarev@gmail.com>
+Date:   Sun Apr 9 16:27:57 2023 +0200
+
+    Fix wrong loop for reading
+
+commit ec692b0238459ea4f588b43f02cf78402c3b578f
+Author: LukaPecijarev <lpecijarev@gmail.com>
+Date:   Sun Apr 9 16:08:44 2023 +0200
+
+    Add java class
+
+commit ecb1f37d8fbff37b1cb8ea4925e0d391035b39b6
+Author: LukaPecijarev <lpecijarev@gmail.com>
+Date:   Sun Apr 9 15:57:39 2023 +0200
+
+    Initial commit
+
